@@ -6,8 +6,6 @@ Adds Icons to the celestial bodies\n
 English and german language supported (right now)\n
 If you have feedback or want a feature added please let me know\n
 Works with game version 0.15.xx\n",
-,,
-,,planets
 phobos,Phobos,
 deimos,Deimos,
 ceres,Ceres,
@@ -31,8 +29,6 @@ pluto,Pluto,
 charon,Charon,
 haumea,Haumea,
 proteus,Proteus,
-,,
-,,planet description
 phobos_description,"<b>Phobos</>\n Phobos is the largest moon of Mars and is characterized by its irregular shape with a diameter of about 22.4 kilometers. It has no atmosphere to speak of, making it a perfect destination for exploration.  In approximately 50 mio. years it will collide with mars and form a ring like structure just like Saturn but smaller. Small amouts of minerals can be found here.",
 deimos_description,"<b>Daimos</>\n Deimos, the smaller and outermost moon of Mars, has a smoother and less cratered surface compared to Phobos due to a thicker layer of regolith. It is one of the smallest known moons in the solar system and orbits Mars at a much greater distance than Phobos.",
 ceres_description,"<b>Ceres</>\n Ceres is the largest object in the asteroid belt and the only dwarf planet within it. It has a differentiated structure with a rocky core and icy mantle and is thought to contain significant amounts of water. The bright spots in the Occator Crater, believed to be deposits of salts, are among its most intriguing features.",

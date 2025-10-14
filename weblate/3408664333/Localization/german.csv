@@ -6,8 +6,6 @@ Fügt Icons zu den Himmelskörpern hinzu\n
 Englisch und Deutsch werden unterstützt (aktuell)\n
 Wenn du Feedback hast oder eine Funktion hinzufügt haben möchtest, lass es mich bitte wissen\n
 Funktioniert mit Spielversion 0.15.xx\n",
-,,
-,,planets
 phobos,Phobos,
 deimos,Deimos,
 ceres,Ceres,
@@ -31,8 +29,6 @@ pluto,Pluto,
 charon,Charon,
 haumea,Haumea,
 proteus,Proteus,
-,,
-,,
 phobos_description,"<b>Phobos</>\n Phobos ist der größte Mond des Mars und zeichnet sich durch seine unregelmäßige Form mit einem Durchmesser von etwa 22,4 Kilometern aus. Es gibt keine nennenswerte Atmosphäre, was ihm zu einem perfekten Ziel für Erkundungen macht. In etwa 50 Mio. Jahren wird er mit dem Mars kollidieren und eine ringartige Struktur bilden, genau wie Saturn, aber kleiner. Kleine Mengen an Mineralien kann man hier finden.",
 deimos_description,<b>Daimos</>\n Deimos ist der kleinere und äußerste Mond des Mars. Er hat eine glattere und weniger kraterreiche Oberfläche im Vergleich zu Phobos aufgrund einer dickeren Schicht von Regolith. Er gehört zu den kleinsten bekannten Monden im Sonnensystem und umkreist den Mars in weitaus größerer Entfernung als Phobos. ,
 ceres_description,"<b>Ceres</>\n Ceres ist das größte Objekt im Asteroidengürtel und der einzige Zwergplanet darin. Es hat eine differenzierte Struktur mit einem felsigen Kern und einem eisigen Mantel und soll erhebliche Mengen an Wasser enthalten. Die hellen Flecken im Occator-Krater, bei denen es sich vermutlich um Salzablagerungen handelt, gehören zu seinen faszinierendsten Merkmalen.",
