@@ -1,0 +1,12 @@
+Key,SourceString,Comment
+mod_name,"Human Ressources"
+mod_description,"A mod that allows you to assign additional personnel and thus enabling shifts to increase efficiency."
+furniture_hr_closet_001,"A locker that allows to assign an additional worker."
+furniture_hr_closet_003,"A drawer that allows to assign an additional worker."
+furniture_hr_desk,"A desk that allows to assign an additional worker."
+furniture_hr_laboratory20,"Scientific equipment that allows to assign an additional researcher."
+furniture_hr_laboratory21,"Scientific equipment that allows to assign an additional researcher."
+furniture_hr_laboratory22,"Scientific equipment that allows to assign an additional researcher."
+furniture_hr_closet_003_hospital,"A cabinet that allows to administer additional patients."
+furniture_hr_desk_hospital,"A desk that allows to administer additional patients."
+furniture_hr_shelf0_hospital,"A cabinet that allows to administer additional patients."
