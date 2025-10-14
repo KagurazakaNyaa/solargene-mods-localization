@@ -81,7 +81,9 @@ def update_or_insert_existing_file(input_file_path, output_file_path):
     try:
         with open(output_file_path, "w", newline="", encoding="utf-8") as f:
             writer = csv.DictWriter(
-                f, fieldnames=["source", "target", "developer_comments"]
+                f,
+                fieldnames=["source", "target", "developer_comments"],
+                quoting=csv.QUOTE_ALL,
             )
             writer.writeheader()
             for row in existing_data.values():
@@ -121,7 +123,9 @@ def create_new_file(input_file_path, output_file_path):
         # Write to output file
         with open(output_file_path, "w", newline="", encoding="utf-8") as outfile:
             writer = csv.DictWriter(
-                outfile, fieldnames=["source", "target", "developer_comments"]
+                outfile,
+                fieldnames=["source", "target", "developer_comments"],
+                quoting=csv.QUOTE_ALL,
             )
             writer.writeheader()
             writer.writerows(rows)

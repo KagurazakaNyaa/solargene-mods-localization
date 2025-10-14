@@ -1,12 +1,12 @@
-source,target,developer_comments
-mod_name,Human Ressources,
-mod_description,"Ein Mod, um zusätzliches Personal einzuteilen und so Schichten zu ermöglichen, um die Effizienz zu steigern.",
-furniture_hr_closet_001,"Ein Spind, der einen zusätzlichen Arbeiter ermöglicht.",
-furniture_hr_closet_003,"Ein Kästchen, das einen zusätzlichen Arbeiter ermöglicht.",
-furniture_hr_desk,"Ein Schreibtisch, der einen zusätzlichen Arbeiter ermöglicht.",
-furniture_hr_laboratory20,"Wissenschaftliche Ausstattung, die einen zusätzlichen Forscher ermöglicht.",
-furniture_hr_laboratory21,"Wissenschaftliche Ausstattung, die einen zusätzlichen Forscher ermöglicht.",
-furniture_hr_laboratory22,"Wissenschaftliche Ausstattung, die einen zusätzlichen Forscher ermöglicht.",
-furniture_hr_closet_003_hospital,Ein Aktenschrank der die Verwaltung von zusätzlichen Patienten ermöglicht.,
-furniture_hr_desk_hospital,Ein Schreibtisch der die Verwaltung von zusätzlichen Patienten ermöglicht.,
-furniture_hr_shelf0_hospital,Ein Aktenschrank der die Verwaltung von zusätzlichen Patienten ermöglicht.,
+"source","target","developer_comments"
+"mod_name","Human Ressources",""
+"mod_description","Ein Mod, um zusätzliches Personal einzuteilen und so Schichten zu ermöglichen, um die Effizienz zu steigern.",""
+"furniture_hr_closet_001","Ein Spind, der einen zusätzlichen Arbeiter ermöglicht.",""
+"furniture_hr_closet_003","Ein Kästchen, das einen zusätzlichen Arbeiter ermöglicht.",""
+"furniture_hr_desk","Ein Schreibtisch, der einen zusätzlichen Arbeiter ermöglicht.",""
+"furniture_hr_laboratory20","Wissenschaftliche Ausstattung, die einen zusätzlichen Forscher ermöglicht.",""
+"furniture_hr_laboratory21","Wissenschaftliche Ausstattung, die einen zusätzlichen Forscher ermöglicht.",""
+"furniture_hr_laboratory22","Wissenschaftliche Ausstattung, die einen zusätzlichen Forscher ermöglicht.",""
+"furniture_hr_closet_003_hospital","Ein Aktenschrank der die Verwaltung von zusätzlichen Patienten ermöglicht.",""
+"furniture_hr_desk_hospital","Ein Schreibtisch der die Verwaltung von zusätzlichen Patienten ermöglicht.",""
+"furniture_hr_shelf0_hospital","Ein Aktenschrank der die Verwaltung von zusätzlichen Patienten ermöglicht.",""

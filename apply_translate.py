@@ -65,7 +65,9 @@ def apply_translation_to_original(input_file_path, translation_map, output_file_
         # Write to output file with original header format
         with open(output_file_path, "w", newline="", encoding="utf-8") as outfile:
             writer = csv.DictWriter(
-                outfile, fieldnames=["Key", "SourceString", "Comment"]
+                outfile,
+                fieldnames=["Key", "SourceString", "Comment"],
+                quoting=csv.QUOTE_MINIMAL,
             )
             writer.writeheader()
             writer.writerows(rows)

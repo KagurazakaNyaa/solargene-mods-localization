@@ -1,54 +1,54 @@
-source,target,developer_comments
-mod_name,Ad Astra Remake,
-mod_description,"\n Eine überarbeitete Version des beliebten Ad Adstra Mods\n 
+"source","target","developer_comments"
+"mod_name","Ad Astra Remake",""
+"mod_description","\n Eine überarbeitete Version des beliebten Ad Adstra Mods\n 
 Fügt Icons zu den Himmelskörpern hinzu\n
 23 überarbeitete Himmelskörper (Beschreibung für alle Himmelskörper wurde hinzugefügt, kleine Änderungen der Ressourcen)\n
 Englisch und Deutsch werden unterstützt (aktuell)\n
 Wenn du Feedback hast oder eine Funktion hinzufügt haben möchtest, lass es mich bitte wissen\n
-Funktioniert mit Spielversion 0.15.xx\n",
-phobos,Phobos,
-deimos,Deimos,
-ceres,Ceres,
-pallas,Pallas,
-vesta,Vesta,
-juno,Juno,
-iapetus,Iapetus,
-hyperion,Hyperion,
-rhea,Rhea,
-dione,Dione,
-tethys,Tethys,
-mimas,Mimas,
-oberon,Oberon,
-titania,Titania,
-umbriel,Umbriel,
-ariel,Ariel,
-miranda,Miranda,
-eris,Eris,
-makemake,Makemake,
-pluto,Pluto,
-charon,Charon,
-haumea,Haumea,
-proteus,Proteus,
-phobos_description,"<b>Phobos</>\n Phobos ist der größte Mond des Mars und zeichnet sich durch seine unregelmäßige Form mit einem Durchmesser von etwa 22,4 Kilometern aus. Es gibt keine nennenswerte Atmosphäre, was ihm zu einem perfekten Ziel für Erkundungen macht. In etwa 50 Mio. Jahren wird er mit dem Mars kollidieren und eine ringartige Struktur bilden, genau wie Saturn, aber kleiner. Kleine Mengen an Mineralien kann man hier finden.",
-deimos_description,<b>Daimos</>\n Deimos ist der kleinere und äußerste Mond des Mars. Er hat eine glattere und weniger kraterreiche Oberfläche im Vergleich zu Phobos aufgrund einer dickeren Schicht von Regolith. Er gehört zu den kleinsten bekannten Monden im Sonnensystem und umkreist den Mars in weitaus größerer Entfernung als Phobos. ,
-ceres_description,"<b>Ceres</>\n Ceres ist das größte Objekt im Asteroidengürtel und der einzige Zwergplanet darin. Es hat eine differenzierte Struktur mit einem felsigen Kern und einem eisigen Mantel und soll erhebliche Mengen an Wasser enthalten. Die hellen Flecken im Occator-Krater, bei denen es sich vermutlich um Salzablagerungen handelt, gehören zu seinen faszinierendsten Merkmalen.",
-pallas_description,"<b>Pallas</>\n Pallas ist der zweitgrößte Asteroid im Asteroidengürtel und hat eine unregelmäßige, stark kraterartige Form. Es ist reich an Silikaten und weist Anzeichen einer teilweisen Differenzierung auf. Pallas hat im Vergleich zu den meisten Asteroiden eine ungewöhnlich geneigte Umlaufbahn.",
-vesta_description,"<b>Vesta</>\n Vesta ist der hellste von der Erde aus sichtbare Asteroid und hat ein differenziertes Inneres mit einem metallischen Kern, einem Silikatmantel und einer Kruste. Zu seinen Oberflächenmerkmalen gehören große Einschlagbecken wie Rheasilvia mit einem zentralen Gipfel, der einer der höchsten im Sonnensystem ist. Vesta gilt aufgrund seiner komplexen geologischen Geschichte als Protoplanet.",
-juno_description,"<b>Juno</>\n Juno ist ein relativ kleiner Asteroid im Asteroidengürtel, der sich durch sein hohes Reflexionsvermögen und seine silikatreiche Zusammensetzung auszeichnet. Es hat eine unregelmäßige Form und es fehlt ihm die geologische Komplexität, die man bei größeren Asteroiden wie Vesta und Ceres sieht.",
-iapetus_description,"<b>Iapetus</>\n Iapetus, ein Saturnmond, ist berühmt für sein zweifarbiges Erscheinungsbild, wobei eine Hemisphäre dunkel und die andere hell ist. Sein äquatorialer Rücken verleiht ihm eine einzigartige walnussartige Form und seine geringe Dichte lässt darauf schließen, dass er hauptsächlich aus Wassereis mit einem kleinen Felskern besteht.",
-hyperion_description,"<b>Hyperion</>\n Hyperion ist ein unregelmäßig geformter und schwammartiger Saturnmond, der für seine hochporöse Struktur bekannt ist. Seine chaotische Rotation und die stark von Kratern übersäte Oberfläche machen ihn zu einem der eigenartigsten Monde im Sonnensystem.",
-rhea_description,"<b>Rhea</>\n Rhea ist der zweitgrößte Saturnmond und besteht größtenteils aus Wassereis mit einem kleinen Felskern. Seine Oberfläche ist stark von Kratern übersät und weist helle Streifen auf, bei denen es sich vermutlich um Eisablagerungen handelt. Es kann eine dünne Atmosphäre aus Sauerstoff und Kohlendioxid haben.",
-dione_description,"<b>Dione</>\n Dione, ein Saturnmond, hat eine stark von Kratern übersäte Oberfläche mit hellen, dünnen Streifen aus Eisklippen auf seiner hinteren Halbkugel. Diese Merkmale lassen auf tektonische Aktivitäten in der Vergangenheit schließen. Wie Rhea besteht es hauptsächlich aus Wassereis mit etwas Gesteinsmaterial.",
-tethys_description,"<b>Tethys</>\n Tethys ist ein heller, eisiger Saturnmond mit zwei herausragenden Merkmalen: dem massiven Ithaka-Chasma, einem Canyon-System, und dem großen Odysseus-Krater. Seine geringe Dichte weist darauf hin, dass es fast vollständig aus Wassereis besteht.",
-mimas_description,"<b>Mimas</>\n Mimas, ein weiterer Saturnmond, ist berühmt für den riesigen Herschel-Krater, der ihm eine Ähnlichkeit mit dem Todesstern aus „Star Wars“ verleiht. Es besteht hauptsächlich aus Wassereis und hat eine stark kraterartige Oberfläche.",
-oberon_description,"<b>Oberon</>\n Oberon ist der zweitgrößte Uranusmond mit einer dunklen, stark kraterartigen Oberfläche, die von großen Einschlagsbecken geprägt ist. Es kann einen unterirdischen Ozean haben und besteht aus einer Mischung aus Eis und Gestein.",
-titania_description,"<b>Titania</>\n Titania ist Uranus‘ größter Mond und weist Hinweise auf vergangene geologische Aktivitäten auf, darunter Schluchten und Verwerfungssysteme. Seine Oberfläche besteht aus einer Mischung aus Eis und Gestein und möglicherweise beherbergt er einen unterirdischen Ozean.",
-umbriel_description,"<b>Umbriel</>\n Umbriel, ein Mond des Uranus, ist aufgrund seiner stark von Kratern übersäten und alten Oberfläche der dunkelste seiner Hauptmonde. Es besteht hauptsächlich aus Wassereis mit etwas Gesteinsmaterial und möglicherweise Methaneis.",
-ariel_description,"<b>Ariel</>\n Ariel ist einer der hellsten und geologisch aktivsten Monde des Uranus, mit einer Oberfläche, die von Tälern, Verwerfungen und Flüssen geprägt ist. Seine relativ junge Oberfläche weist auf eine anhaltende tektonische Aktivität hin.",
-miranda_description,"<b>Miranda</>\n Miranda, ein kleiner Mond des Uranus, ist für sein dramatisches und abwechslungsreiches Gelände bekannt, darunter Schluchten, Bergrücken und große Verwerfungssteilformationen, sogenannte Koronae. Seine Oberfläche ist eine Mischung aus stark kraterreichen und geologisch jüngeren Regionen.",
-eris_description,"<b>Eris</>\n Eris ist der zweitgrößte bekannte Zwergplanet im Sonnensystem und befindet sich in der Region der verstreuten Scheibe jenseits von Neptun. Er ist etwas kleiner als Pluto und hat eine stark reflektierende Oberfläche, die wahrscheinlich mit gefrorenem Methan bedeckt ist",
-makemake_description,"<b>Makemake</>\n Makemake ist ein Zwergplanet im Kuipergürtel mit einer hellen, eisigen Oberfläche aus Methan, Ethan und Stickstoff. Ihm fehlt eine nennenswerte Atmosphäre, aber es gibt mindestens einen bekannten Mond.",
-pluto_description,"<b>Pluto</>\n Pluto ist ein Zwergplanet im Kuipergürtel mit einer vielfältigen und aktiven Oberfläche mit Stickstoffeisebenen, Gebirgszügen und möglichen Kryovulkanen. Seine dünne Atmosphäre besteht hauptsächlich aus Stickstoff mit Spuren von Methan und Kohlenmonoxid.",
-charon_description,"<b>Charon</>\n Charon ist Plutos größter Mond, etwa halb so groß wie er, und ist gravitativ mit ihm in einer gemeinsamen Umlaufbahn verbunden. Es hat eine zerklüftete Oberfläche mit tiefen Schluchten, eine rötliche Polarregion und Anzeichen vergangener geologischer Aktivität.",
-haumea_description,"<b>Haumea</>\n Haumea ist ein Zwergplanet im Kuipergürtel, der für seine längliche, fußballähnliche Form bekannt ist, die durch seine schnelle Rotation verursacht wird. Es hat eine Oberfläche aus kristallinem Wassereis und zwei kleine Monde, Hiʻiaka und Namaka.",
-proteus_description,"<b>Proteus</>\n Proteus ist einer der größten Neptunmonde mit einer unregelmäßigen Form und einer dunklen, stark kraterartigen Oberfläche. Sein größter Krater, Pharos, ist ein herausragendes Merkmal und besteht wahrscheinlich aus Wassereis und Gestein.",
+Funktioniert mit Spielversion 0.15.xx\n",""
+"phobos","Phobos",""
+"deimos","Deimos",""
+"ceres","Ceres",""
+"pallas","Pallas",""
+"vesta","Vesta",""
+"juno","Juno",""
+"iapetus","Iapetus",""
+"hyperion","Hyperion",""
+"rhea","Rhea",""
+"dione","Dione",""
+"tethys","Tethys",""
+"mimas","Mimas",""
+"oberon","Oberon",""
+"titania","Titania",""
+"umbriel","Umbriel",""
+"ariel","Ariel",""
+"miranda","Miranda",""
+"eris","Eris",""
+"makemake","Makemake",""
+"pluto","Pluto",""
+"charon","Charon",""
+"haumea","Haumea",""
+"proteus","Proteus",""
+"phobos_description","<b>Phobos</>\n Phobos ist der größte Mond des Mars und zeichnet sich durch seine unregelmäßige Form mit einem Durchmesser von etwa 22,4 Kilometern aus. Es gibt keine nennenswerte Atmosphäre, was ihm zu einem perfekten Ziel für Erkundungen macht. In etwa 50 Mio. Jahren wird er mit dem Mars kollidieren und eine ringartige Struktur bilden, genau wie Saturn, aber kleiner. Kleine Mengen an Mineralien kann man hier finden.",""
+"deimos_description","<b>Daimos</>\n Deimos ist der kleinere und äußerste Mond des Mars. Er hat eine glattere und weniger kraterreiche Oberfläche im Vergleich zu Phobos aufgrund einer dickeren Schicht von Regolith. Er gehört zu den kleinsten bekannten Monden im Sonnensystem und umkreist den Mars in weitaus größerer Entfernung als Phobos. ",""
+"ceres_description","<b>Ceres</>\n Ceres ist das größte Objekt im Asteroidengürtel und der einzige Zwergplanet darin. Es hat eine differenzierte Struktur mit einem felsigen Kern und einem eisigen Mantel und soll erhebliche Mengen an Wasser enthalten. Die hellen Flecken im Occator-Krater, bei denen es sich vermutlich um Salzablagerungen handelt, gehören zu seinen faszinierendsten Merkmalen.",""
+"pallas_description","<b>Pallas</>\n Pallas ist der zweitgrößte Asteroid im Asteroidengürtel und hat eine unregelmäßige, stark kraterartige Form. Es ist reich an Silikaten und weist Anzeichen einer teilweisen Differenzierung auf. Pallas hat im Vergleich zu den meisten Asteroiden eine ungewöhnlich geneigte Umlaufbahn.",""
+"vesta_description","<b>Vesta</>\n Vesta ist der hellste von der Erde aus sichtbare Asteroid und hat ein differenziertes Inneres mit einem metallischen Kern, einem Silikatmantel und einer Kruste. Zu seinen Oberflächenmerkmalen gehören große Einschlagbecken wie Rheasilvia mit einem zentralen Gipfel, der einer der höchsten im Sonnensystem ist. Vesta gilt aufgrund seiner komplexen geologischen Geschichte als Protoplanet.",""
+"juno_description","<b>Juno</>\n Juno ist ein relativ kleiner Asteroid im Asteroidengürtel, der sich durch sein hohes Reflexionsvermögen und seine silikatreiche Zusammensetzung auszeichnet. Es hat eine unregelmäßige Form und es fehlt ihm die geologische Komplexität, die man bei größeren Asteroiden wie Vesta und Ceres sieht.",""
+"iapetus_description","<b>Iapetus</>\n Iapetus, ein Saturnmond, ist berühmt für sein zweifarbiges Erscheinungsbild, wobei eine Hemisphäre dunkel und die andere hell ist. Sein äquatorialer Rücken verleiht ihm eine einzigartige walnussartige Form und seine geringe Dichte lässt darauf schließen, dass er hauptsächlich aus Wassereis mit einem kleinen Felskern besteht.",""
+"hyperion_description","<b>Hyperion</>\n Hyperion ist ein unregelmäßig geformter und schwammartiger Saturnmond, der für seine hochporöse Struktur bekannt ist. Seine chaotische Rotation und die stark von Kratern übersäte Oberfläche machen ihn zu einem der eigenartigsten Monde im Sonnensystem.",""
+"rhea_description","<b>Rhea</>\n Rhea ist der zweitgrößte Saturnmond und besteht größtenteils aus Wassereis mit einem kleinen Felskern. Seine Oberfläche ist stark von Kratern übersät und weist helle Streifen auf, bei denen es sich vermutlich um Eisablagerungen handelt. Es kann eine dünne Atmosphäre aus Sauerstoff und Kohlendioxid haben.",""
+"dione_description","<b>Dione</>\n Dione, ein Saturnmond, hat eine stark von Kratern übersäte Oberfläche mit hellen, dünnen Streifen aus Eisklippen auf seiner hinteren Halbkugel. Diese Merkmale lassen auf tektonische Aktivitäten in der Vergangenheit schließen. Wie Rhea besteht es hauptsächlich aus Wassereis mit etwas Gesteinsmaterial.",""
+"tethys_description","<b>Tethys</>\n Tethys ist ein heller, eisiger Saturnmond mit zwei herausragenden Merkmalen: dem massiven Ithaka-Chasma, einem Canyon-System, und dem großen Odysseus-Krater. Seine geringe Dichte weist darauf hin, dass es fast vollständig aus Wassereis besteht.",""
+"mimas_description","<b>Mimas</>\n Mimas, ein weiterer Saturnmond, ist berühmt für den riesigen Herschel-Krater, der ihm eine Ähnlichkeit mit dem Todesstern aus „Star Wars“ verleiht. Es besteht hauptsächlich aus Wassereis und hat eine stark kraterartige Oberfläche.",""
+"oberon_description","<b>Oberon</>\n Oberon ist der zweitgrößte Uranusmond mit einer dunklen, stark kraterartigen Oberfläche, die von großen Einschlagsbecken geprägt ist. Es kann einen unterirdischen Ozean haben und besteht aus einer Mischung aus Eis und Gestein.",""
+"titania_description","<b>Titania</>\n Titania ist Uranus‘ größter Mond und weist Hinweise auf vergangene geologische Aktivitäten auf, darunter Schluchten und Verwerfungssysteme. Seine Oberfläche besteht aus einer Mischung aus Eis und Gestein und möglicherweise beherbergt er einen unterirdischen Ozean.",""
+"umbriel_description","<b>Umbriel</>\n Umbriel, ein Mond des Uranus, ist aufgrund seiner stark von Kratern übersäten und alten Oberfläche der dunkelste seiner Hauptmonde. Es besteht hauptsächlich aus Wassereis mit etwas Gesteinsmaterial und möglicherweise Methaneis.",""
+"ariel_description","<b>Ariel</>\n Ariel ist einer der hellsten und geologisch aktivsten Monde des Uranus, mit einer Oberfläche, die von Tälern, Verwerfungen und Flüssen geprägt ist. Seine relativ junge Oberfläche weist auf eine anhaltende tektonische Aktivität hin.",""
+"miranda_description","<b>Miranda</>\n Miranda, ein kleiner Mond des Uranus, ist für sein dramatisches und abwechslungsreiches Gelände bekannt, darunter Schluchten, Bergrücken und große Verwerfungssteilformationen, sogenannte Koronae. Seine Oberfläche ist eine Mischung aus stark kraterreichen und geologisch jüngeren Regionen.",""
+"eris_description","<b>Eris</>\n Eris ist der zweitgrößte bekannte Zwergplanet im Sonnensystem und befindet sich in der Region der verstreuten Scheibe jenseits von Neptun. Er ist etwas kleiner als Pluto und hat eine stark reflektierende Oberfläche, die wahrscheinlich mit gefrorenem Methan bedeckt ist",""
+"makemake_description","<b>Makemake</>\n Makemake ist ein Zwergplanet im Kuipergürtel mit einer hellen, eisigen Oberfläche aus Methan, Ethan und Stickstoff. Ihm fehlt eine nennenswerte Atmosphäre, aber es gibt mindestens einen bekannten Mond.",""
+"pluto_description","<b>Pluto</>\n Pluto ist ein Zwergplanet im Kuipergürtel mit einer vielfältigen und aktiven Oberfläche mit Stickstoffeisebenen, Gebirgszügen und möglichen Kryovulkanen. Seine dünne Atmosphäre besteht hauptsächlich aus Stickstoff mit Spuren von Methan und Kohlenmonoxid.",""
+"charon_description","<b>Charon</>\n Charon ist Plutos größter Mond, etwa halb so groß wie er, und ist gravitativ mit ihm in einer gemeinsamen Umlaufbahn verbunden. Es hat eine zerklüftete Oberfläche mit tiefen Schluchten, eine rötliche Polarregion und Anzeichen vergangener geologischer Aktivität.",""
+"haumea_description","<b>Haumea</>\n Haumea ist ein Zwergplanet im Kuipergürtel, der für seine längliche, fußballähnliche Form bekannt ist, die durch seine schnelle Rotation verursacht wird. Es hat eine Oberfläche aus kristallinem Wassereis und zwei kleine Monde, Hiʻiaka und Namaka.",""
+"proteus_description","<b>Proteus</>\n Proteus ist einer der größten Neptunmonde mit einer unregelmäßigen Form und einer dunklen, stark kraterartigen Oberfläche. Sein größter Krater, Pharos, ist ein herausragendes Merkmal und besteht wahrscheinlich aus Wassereis und Gestein.",""
