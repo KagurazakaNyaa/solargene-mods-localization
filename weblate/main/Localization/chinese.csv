@@ -2138,7 +2138,7 @@ DNA芯片的用途并不仅限于健康监测。这些传感器能够在短时�
 "buy_period","经过（天）：",""
 "close_task_caption","关闭任务",""
 "close_task_text","物流任务将被删除",""
-"buy_clean_cart","清空垃圾桶",""
+"buy_clean_cart","清空购物车",""
 "buy_from","从哪",""
 "buy_cargo_caption","购买资源",""
 "buy_cargo_short_text","在 <b>'{src_colony}'</> 中，货物将被购买：
@@ -2182,7 +2182,7 @@ DNA芯片的用途并不仅限于健康监测。这些传感器能够在短时�
 "shuttles_reject","取消配送",""
 "build_tooltip_doorDockEraseError","需要先删除船舶",""
 "hire_caption","招聘",""
-"apply","申请",""
+"apply","应用",""
 "transfer_staff_caption","派遣人员",""
 "transfer_staff_selected","等待出发：",""
 "transfer_staff_time","到达方式：",""
