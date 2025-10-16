@@ -107,7 +107,7 @@
 气体排出速度: {flow_speed} 千米/秒
 燃料消耗率 {flow_rate} 千克/秒
 推力 {thrust} 千牛",""
-"build_recombinationEngineTooltip","复合引擎。利用原子重新结合为分子的能量
+"build_recombinationEngineTooltip","重组引擎。利用原子重新结合为分子的能量
 气体排出速度: {flow_speed} 千米/秒
 燃料消耗率 {flow_rate} 千克/秒
 推力 {thrust} 千牛",""
@@ -662,7 +662,7 @@
 "research_carbonComputers","碳电子",""
 "research_ultralightHighstrengthMaterials","超轻高强度材料",""
 "research_hightemperatureConstructionMaterials","高温结构材料",""
-"research_recombinationEngine","复合式引擎",""
+"research_recombinationEngine","重组引擎",""
 "research_thermonuclearEnergy","聚变能源",""
 "research_safeNuclearEnergy","安全核电",""
 "research_nuclearPowerPlant","核电厂",""
@@ -1504,14 +1504,14 @@ Z键 - 在空间站上对齐摄像机",""
 "build_tooltip_pauseError","无法在暂停状态下构建。",""
 "what_news","版本更新",""
 "nuclear_jet_fuel","核喷射燃料",""
-"recombination_fuel","重组-燃料",""
-"fusion_jet_fuel","热核-喷射-燃料",""
+"recombination_fuel","重组燃料。",""
+"fusion_jet_fuel","热核喷射燃料",""
 "cargo_description_nuclear_jet_fuel","核喷气燃料由核引擎加热燃料和作为工质的氧气组成",""
 "cargo_description_recombination_fuel","重组燃料由氢离子组成",""
 "cargo_description_fusion_jet_fuel","热核喷气燃料由热核引擎加热燃料和作为工质的氧气组成",""
-"furniture_workshop31","家具-31号车间",""
-"furniture_workshop32","家具-32号车间",""
-"furniture_workshop33","家具-33号车间",""
+"furniture_workshop31","核喷气燃料生产机",""
+"furniture_workshop32","重组燃料生产机",""
+"furniture_workshop33","聚变燃料生产机",""
 "place_description_robotics","机器人的充电、维修和储存",""
 "place_robotics","机器人维护",""
 "furniture_robotics01","机器人充电垫",""
@@ -3664,7 +3664,7 @@ DNA芯片的用途并不仅限于健康监测。这些传感器能够在短时�
 "camera_settings_cut_transparency","切割层以上透明",""
 "chemicalEngine_description","化学引擎，使用化学燃料运行",""
 "nuclearEngine_description","核引擎。通过核反应加热工质运行",""
-"recombinationEngine_description","复合引擎。利用原子重组为分子的能量运行",""
+"recombinationEngine_description","重组引擎。利用原子重组为分子的能量运行",""
 "termonuclearEngine_description","热核引擎。通过等离子体中的核聚变反应加热工质运行",""
 "photonEngine_description","光子引擎。通过物质与反物质湮灭运行",""
 "farm_bar_progress_tooltip","工人技能越高，作物成熟越快。同时需注意舱室温度——温度过高或过低会导致植物死亡",""
