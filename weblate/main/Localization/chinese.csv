@@ -85,7 +85,7 @@
 "buy_robot_caption","购买机器人",""
 "buy_robot_text","机器人的成本{cost}。\n购买?",""
 "robot_arrive_caption","机器人正在赶来的路上",""
-"robot_arrive_text","机器人将通过飞行器送到本站。",""
+"robot_arrive_text","机器人将通过穿梭机被运送到站点。",""
 "build_dismantlingTooltip","拆除建筑物",""
 "build_pillarsTooltip","支柱被安装在地面上，用于支撑建筑和人行道的重量。",""
 "build_stairsTooltip","楼梯可以安装在户外和室内。",""
@@ -97,7 +97,7 @@
 "build_solarPanelTooltip","太阳能板在白天发电。",""
 "build_batteryTooltip","电池利用白天积累的能量晚上给空间站供电。太阳耀斑会导致电池部分放电。",""
 "build_tankTooltip","液体和气体被储存在加压的密封罐中。",""
-"build_dockTooltip","穿梭对接枢纽",""
+"build_dockTooltip","穿梭机停靠点",""
 "build_thrusterToolip","需要使用推进器来调整空间站的航行方向。",""
 "build_chemicalEngineTooltip","化学引擎，使用化学燃料工作
 气体排出速度: {flow_speed} 千米/秒
@@ -1352,7 +1352,7 @@ email： acmain@gmail.com
 "sell_description","在穿梭机装载完货物后，将会计算相应货款。",""
 "character_states_console&biotechnic","从事生物技术工作",""
 "character_states_move_to_console&biotechnic","走向生物技术",""
-"build_tooltip_CantRemoveDockWithShuttle","等待飞行器出发",""
+"build_tooltip_CantRemoveDockWithShuttle","等待穿梭机出发",""
 "build_tooltip_CantRemoveEngineInActiveRoute","在飞行过程中不可拆卸引擎",""
 "russia_man_firstNames","Alexander/Alexey/Andrey/Anton/Arseny/Artem/Vasiliy/Victor/Vitaly/Vladimir/Vladislav/Vyacheslav/George/Gleb/David/Daniel/Denis/Dmitry/Evgeniy/Egor/Ivan/Igor/Ilya/Kirill/Konstantin/Lev/Maxim/Mark/Matvey/Michael/Nikita/Nikolay/Oleg/Pavel/Roman/Ruslan/Sergei/Stanislav/Stepan/Timofey/Timur/Fedor/Yuri/Yaroslav",""
 "russia_man_lastNames","Ivanov/Smirnov/Kuznetsov/Popov/Vasiliev/Petrov/Sokolov/Mikhailov/Novikov/Fedorov/Morozov/Volkov/Alekseev/Lebedev/Semenov/Egorov/Pavlov/Kozlov/Stepanov/Nikolaev/Eagles/Andreev/Makarov/Nikitin/Zakharov/Zaitsev/Solovyov/Borisov/Yakovlev/Grigoriev/Romanov/Sparrows/Sergeev/Kuzmin/Frolov/Alexandrov/Dmitriev/Korolev/Gusev/Kiselyov/Ilyin/Maximov/Poles/Sorokin/Vinogradov/Kovalev/Belov/Medvedev/Antonov/Tarasov",""
@@ -1491,7 +1491,7 @@ Z键 - 在空间站上对齐摄像机",""
 "events_filter_crysis_tooltip","危险",""
 "events_filter_crysis_end_tooltip","危险结束",""
 "events_filter_death_tooltip","死亡",""
-"events_filter_shuttle_tooltip","穿梭",""
+"events_filter_shuttle_tooltip","穿梭机抵达消息",""
 "event_crysis_description","爆发了一场危机：{name}不能被购买",""
 "event_crysis_end_description","危机已经结束：{name} 重新可用了",""
 "event_shuttle_description","穿梭机运来了 {humans} 名人类、{robots} 个机器人和 {items} 件物品，总重 {weight} 千克",""
@@ -2274,7 +2274,7 @@ DNA芯片的用途并不仅限于健康监测。这些传感器能够在短时�
 "main_menu_saved_tooltip","实际时间: {real_time}
 游戏时间: {game_time}
 备注: {comment}",""
-"build_category_landing_tooltip","航天飞机着陆点和停靠点",""
+"build_category_landing_tooltip","穿梭机着陆点和停靠点",""
 "build_category_stairs_tooltip","人行道、楼梯和地板",""
 "build_category_doors_tooltip","门",""
 "build_category_lights_tooltip","灯、指针、航标",""
@@ -3083,7 +3083,7 @@ DNA芯片的用途并不仅限于健康监测。这些传感器能够在短时�
  - 与{nation}的关系将改善{up_loyalty}
 您可以随时终止合同，但这将使与{nation}的关系恶化{down_loyalty}",""
 "contract_select_spaceport_text","选择此殖民地作为{nation}的未来太空港？
-选择后，太空梭将开始运送人员至殖民地（前提是殖民地中没有红色指标）。
+选择后，穿梭机将开始运送人员至殖民地（前提是殖民地中没有红色指标）。
 您可以通过点击合同上的“重置”按钮取消此决定。",""
 "sign_contract_mine_colony_text","如果您履行合同义务，则：
  - 您的殖民地将移交给{nation}
@@ -3307,7 +3307,7 @@ DNA芯片的用途并不仅限于健康监测。这些传感器能够在短时�
 "tutorial_colony1b","赤道通常比行星上其他地方更温暖。此外，尽量选择白天一侧、日落前有充足时间的地点——你需要能源，而没有阳光时，太阳能板将无法发电",""
 "tutorial_colony5b","屏幕右侧显示管理殖民地的按钮指示器。您可以在其上看到最重要的指标，以及需要紧急处理的情况的警告（红色闪烁）",""
 "tutorial_building0b","建造气闸后，您可以建造走廊。点击<img id=""hallway""/>（屏幕底部），选择任意类型的块，并将其连接到气闸",""
-"tutorial_staff0b","要雇佣人员，点击左侧“人员”面板中的“雇佣”。员工有不同的专业、技能、经验和年龄，因此薪资也不同。雇佣后，人员将乘坐航天飞机抵达空间站。到达时间可在右侧的“物流”面板中查看",""
+"tutorial_staff0b","要雇佣人员，点击左侧“人员”面板中的“雇佣”。员工有不同的专业、技能、经验和年龄，因此薪资也不同。雇佣后，人员将乘坐穿梭机抵达空间站。到达时间可在右侧的“物流”面板中查看",""
 "character_morale_tooltip","心情差会降低殖民者的技能",""
 "character_bonus_tooltip","奖金能快速提升宇航员的心情",""
 "room_comfort","每人舒适度 {value}/{max}",""
