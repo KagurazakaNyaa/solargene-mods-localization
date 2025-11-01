@@ -85,7 +85,7 @@
 "buy_robot_caption","购买机器人",""
 "buy_robot_text","机器人的成本{cost}。\n购买?",""
 "robot_arrive_caption","机器人正在赶来的路上",""
-"robot_arrive_text","机器人将通过穿梭机被运送到站点。",""
+"robot_arrive_text","机器人将通过太空梭被运送到站点。",""
 "build_dismantlingTooltip","拆除建筑物",""
 "build_pillarsTooltip","支柱被安装在地面上，用于支撑建筑和人行道的重量。",""
 "build_stairsTooltip","楼梯可以安装在户外和室内。",""
@@ -97,7 +97,7 @@
 "build_solarPanelTooltip","太阳能板在白天发电。",""
 "build_batteryTooltip","电池利用白天积累的能量晚上给空间站供电。太阳耀斑会导致电池部分放电。",""
 "build_tankTooltip","液体和气体被储存在加压的密封罐中。",""
-"build_dockTooltip","穿梭机停靠点",""
+"build_dockTooltip","太空梭停靠点",""
 "build_thrusterToolip","需要使用推进器来调整空间站的航行方向。",""
 "build_chemicalEngineTooltip","化学引擎，使用化学燃料工作
 气体排出速度: {flow_speed} 千米/秒
@@ -194,8 +194,8 @@
 "state_battery","当前电池电量：<b>{charge}%</>。
 满足基地<b>每日</>（一个日/夜循环）的需求电量为：<b>{percent}</>。
 在空地建造更多的电池和发电机，或者关闭当前不需要电力的地方。",""
-"state_storage","使用 {usage} 的 {total} m³ 库存。 如果仓库已满，则停止生产（不适用于液体和气体），载有固体货物的穿梭机将在轨道上等待",""
-"state_tank","使用水箱 {usage} {total} m³。 如果储罐满了，液体和气体将停止生产，载有液体货物的穿梭机将在轨道上等待",""
+"state_storage","使用 {usage} 的 {total} m³ 库存。 如果仓库已满，则停止生产（不适用于液体和气体），载有固体货物的太空梭将在轨道上等待",""
+"state_tank","使用水箱 {usage} {total} m³。 如果储罐满了，液体和气体将停止生产，载有液体货物的太空梭将在轨道上等待",""
 "state_unreachable","无法前往目标，需重新排列干扰殖民者经过路径的物体，以使道路通畅。可能需要建立气闸。",""
 "state_sit","宇航员没有地方可坐。可在走道放上沙发，或在休息室放上扶手椅以供休息。",""
 "state_sleep","殖民者没有地方睡觉。可在生活区设置更多的床，并把它们分配给殖民者。",""
@@ -213,7 +213,7 @@
 <b>{gasp}</>殖民者缺氧。
 为了避免仓库中缺氧，使空气中充满二氧化碳。设置制氧机或增加仓库的氧气供应。",""
 "state_radiation","殖民地室内最大辐射水平(毫希沃特/天)",""
-"state_meteors","流星雨会对殖民地造成损害并可能摧毁穿梭机。
+"state_meteors","流星雨会对殖民地造成损害并可能摧毁太空梭。
 流星雨将在 {start} 后到达空间站
 流星雨对空间站的预计损害: {damage} <img id=""endurance""/>
 流星雨的质量、速度和方向各不相同，因此建议在空间站四周均匀布置比预测数量更多的炮塔以确保完全拦截。",""
@@ -322,7 +322,7 @@
 "outdoor_OutdoorTank","气体和液体的储存罐。",""
 "outdoor_Drill","一种能够高效开采大量固体矿物的工业钻孔设备。",""
 "outdoor_Pump","一种串联式泵。它从行星表面和大气中提取中等量的液体。",""
-"outdoor_Landing","穿梭机着陆区只能设置在无坡度的水平面上。",""
+"outdoor_Landing","太空梭着陆区只能设置在无坡度的水平面上。",""
 "@apartment_bed","殖民者在床上比在沙发上睡得好。",""
 "@apartment_shelf","殖民者将个人物品存放在壁橱里。",""
 "@apartment_table","桌子",""
@@ -632,7 +632,7 @@
 "route_select_target","点击你的目的地",""
 "route_total_time","{days}天{hours}小时{mins}分钟",""
 "route_fail_caption","无法继续该路线",""
-"route_fail_with_shuttles","等待所有穿梭机的到达和离开。",""
+"route_fail_with_shuttles","等待所有太空梭的到达和离开。",""
 "route_fail_no_base","等待太空站飞行至目的地。",""
 "route_asteroid","小行星",""
 "route_withoutHumans","航班飞行需要机组人员。",""
@@ -753,7 +753,7 @@
 "modifier_materials","材料消耗{materials}%",""
 "modifier_work","工作速度{work}%",""
 "modifier_launchingCost","轨道发射成本{launching_cost}%",""
-"modifier_shipPower","穿梭机的推重比{ship_power}%",""
+"modifier_shipPower","太空梭的推重比{ship_power}%",""
 "modifier_aging","衰老速度 {aging}%",""
 "researches","探究",""
 "research_next","随后将可用：",""
@@ -764,7 +764,7 @@
 "go_main_menu_text","保存游戏：",""
 "go_main_menu_caption","退出游戏",""
 "humans_arrive_caption","宇航员正在前来。",""
-"humans_arrive_text","宇航员将乘坐穿梭机到达本站。",""
+"humans_arrive_text","宇航员将乘坐太空梭到达本站。",""
 "morale_zero_caption","该站不可用。",""
 "morale_zero_text","站点{station}的工作人员的情绪已经下降到0%。 该站点在新员工到来前都不会再工作。",""
 "departure_day_tooltip","通过更改出发日期，您可以在落入有利窗口的情况下减少对燃料的需求。",""
@@ -775,7 +775,7 @@
 {cargo}
 物流任务将在站点创建：
 {stations}
-货物将由穿梭机自动运送
+货物将由太空梭自动运送
 运费将在货物装车时扣除",""
 "post_cargo_caption","转发货物?",""
 "mod_unlimited_money","无限的金钱",""
@@ -946,7 +946,7 @@ email： acmain@gmail.com
 "give_colony_failCaption","你无法移交这个殖民地。",""
 "give_colony_failManyFractions","来自不同国家（派系）的殖民者在殖民地工作。",""
 "give_colony_failNoContract","{fraction}没有与您签订殖民地创建合同。",""
-"give_colony_failShuttles","需要等待所有穿梭机离开地面。",""
+"give_colony_failShuttles","需要等待所有太空梭离开地面。",""
 "give_colony_failHumansCount","还需要{need_humans}数量的殖民者方能完成合同。",""
 "give_colony_failApartments","有殖民者无家可归。",""
 "give_colony_failSpecialty","并非所有员工都被分配工作",""
@@ -992,7 +992,7 @@ email： acmain@gmail.com
 "give_ship_caption","确定转交飞船?",""
 "give_ship_failManyFractions","该飞船有不同国家（派系）的船员。",""
 "give_ship_failNoContract","{fraction}没有和你签订飞船建造合同。",""
-"give_ship_failShuttles","需要等待所有穿梭机离开。",""
+"give_ship_failShuttles","需要等待所有太空梭离开。",""
 "give_ship_failHumansCount","我们需要更多的{need_humans}船员来履行合同。",""
 "give_ship_failApartments","有船员未分配到住处。",""
 "give_ship_failSpecialty","有船员未分配到工作。",""
@@ -1004,7 +1004,7 @@ email： acmain@gmail.com
 "give_ship_text","确认根据合同转交{colony}{fraction}?",""
 "state_construction","建筑机器人正在充电，在充满电前您无法建造建筑。如果基地电池电量不足的话，机器人充电时间会较长。建议您制造更多的电池和发电机及加快充电速度。",""
 "build_tooltip_constructionChargeBuildError","等待建筑机器人充电。",""
-"state_shuttles","穿梭机正在等待降落或与空间站对接。建造更多的着陆平台或对接站，并确保仓库和储罐中有足够的空间存放货物。如果殖民地有风暴，穿梭机也无法降落，直到风暴结束",""
+"state_shuttles","太空梭正在等待降落或与空间站对接。建造更多的着陆平台或对接站，并确保仓库和储罐中有足够的空间存放货物。如果殖民地有风暴，太空梭也无法降落，直到风暴结束",""
 "outdoor_Bur1","一种实验性钻机，开采少量固体矿物。",""
 "outdoor_Bur2","一种连续作业的钻机，开采中等数量的固体矿物。",""
 "outdoor_Gaz1","一种实验性钻探设备，从行星内部提取少量液态和气态化石燃料。",""
@@ -1189,14 +1189,14 @@ email： acmain@gmail.com
 "tutorial_colony2","请注意，殖民地的位置会影响其矿产资源分布，并且由于行星自转，辐射和温度会随昼夜和季节变化。
 赤道通常比其他地方更温暖。此外，尽量选择白天一侧且距离日落时间足够长的位置——您需要能源，而没有阳光时太阳能电池板无法发电",""
 "tutorial_colony3","选择行星表面的殖民地位置并命名后，点击“前往空间站”（屏幕右侧）",""
-"tutorial_colony4","现在需要选择穿梭机的着陆点。点击<img id=""landing""/>（屏幕底部），然后点击“着陆平台”，选择一块平坦的区域（通常是低地）。当指针变绿时，点击鼠标左键",""
+"tutorial_colony4","现在需要选择太空梭的着陆点。点击<img id=""landing""/>（屏幕底部），然后点击“着陆平台”，选择一块平坦的区域（通常是低地）。当指针变绿时，点击鼠标左键",""
 "tutorial_colony5","随着殖民地的发展，您将解锁可以放置的新设施。它们将在屏幕底部的相应类别中显示",""
 "tutorial_colony6","首先需要在殖民地部署太阳能电池板——您可以在<img id=""solar_panel""/>类别（屏幕底部）中找到它们，目前只有一个选项：太阳能电池板。
 但现在您没有建造太阳能电池板所需的材料。
 点击太阳能电池板左下角的<img id=""buy""/>图标，所需资源将添加到购物车。
 要购买建造多块太阳能电池板所需的资源，请再次点击该图标。
 打开右侧的“物流”面板，点击“购买”按钮",""
-"tutorial_colony7","现在等待穿梭机运送所需材料。穿梭机在站点之间运输货物和人员。您可以在右侧的“物流”面板中查看当前站点的预期到达和离开的穿梭机数量",""
+"tutorial_colony7","现在等待太空梭运送所需材料。太空梭在站点之间运输货物和人员。您可以在右侧的“物流”面板中查看当前站点的预期到达和离开的太空梭数量",""
 "tutorial_colony8","建造太阳能电池后，需要安装电池。电池白天充电，晚上供电。您可以在右侧的“天气和资源”面板中查看殖民地距离日出和日落的时间",""
 "tutorial_colony9","电力平衡显示在右侧的“能源”面板中。此外，建筑机器人也会消耗电力，如果电力不足，它们的建造速度会大幅减慢。
 在太阳落山之前，尽量多充电——再订购十块太阳能电池板的材料并建造它们",""
@@ -1263,7 +1263,7 @@ email： acmain@gmail.com
 "tutorial_stations2","要创建轨道站，选择至少有一个太空港的行星。在行星面板中点击“发射到轨道”按钮",""
 "tutorial_stations3","切换到空间站的方式与切换到地面殖民地相同——点击右侧的“前往空间站”按钮",""
 "tutorial_stations4","空间站建设的独特之处在于它由固定部分<img id=""section""/>（无重力）、旋转部分<img id=""whell""/>（通过绕轴旋转产生重力）和连接它们的轴段<img id=""axis""/>组成。要建造这些部分，请在轨道站建造面板<img id=""station_build""/>（屏幕底部）中选择它们",""
-"tutorial_stations5","不建议在固定舱段建造人员生活和工作的舱室 - 无重力会导致太空病。但它们非常适合安装储罐、电池、太阳能电池板、引擎和穿梭机对接坞",""
+"tutorial_stations5","不建议在固定舱段建造人员生活和工作的舱室 - 无重力会导致太空病。但它们非常适合安装储罐、电池、太阳能电池板、引擎和太空梭对接坞",""
 "tutorial_stations6","旋转舱段为人员创造了舒适的重力环境，不会导致太空病，因此更适合居住和工作舱室",""
 "tutorial_stations7","默认情况下，空间站部分的旋转是关闭的，因为这会影响游戏性能（但不影响游戏玩法）。您可以在游戏设置中调整旋转速度",""
 "tutorial_fly_title","星际飞船篇",""
@@ -1340,7 +1340,7 @@ email： acmain@gmail.com
 对人员和殖民地的消极影响减少
 行星矿产资源更丰富且分布更均匀
 自然灾害更少且危险性更低
-穿梭机运输更多货物且速度更快
+太空梭运输更多货物且速度更快
 货物运输成本降低
 合同更有利
 拆除物品时100%资源返回仓库",""
@@ -1349,10 +1349,10 @@ email： acmain@gmail.com
 "camera_settings_distance_tooltip","房间将变得透明的相机的最大距离。",""
 "video_night_brightness","夜晚的亮度",""
 "tutorial_building4","要拆除已建造的块，选择<img id=""trash""/>类别（屏幕底部），点击“拆除块”，然后将标记移动到需要拆除的块上，点击鼠标左键",""
-"sell_description","在穿梭机装载完货物后，将会计算相应货款。",""
+"sell_description","在太空梭装载完货物后，将会计算相应货款。",""
 "character_states_console&biotechnic","从事生物技术工作",""
 "character_states_move_to_console&biotechnic","走向生物技术",""
-"build_tooltip_CantRemoveDockWithShuttle","等待穿梭机出发",""
+"build_tooltip_CantRemoveDockWithShuttle","等待太空梭出发",""
 "build_tooltip_CantRemoveEngineInActiveRoute","在飞行过程中不可拆卸引擎",""
 "russia_man_firstNames","Alexander/Alexey/Andrey/Anton/Arseny/Artem/Vasiliy/Victor/Vitaly/Vladimir/Vladislav/Vyacheslav/George/Gleb/David/Daniel/Denis/Dmitry/Evgeniy/Egor/Ivan/Igor/Ilya/Kirill/Konstantin/Lev/Maxim/Mark/Matvey/Michael/Nikita/Nikolay/Oleg/Pavel/Roman/Ruslan/Sergei/Stanislav/Stepan/Timofey/Timur/Fedor/Yuri/Yaroslav",""
 "russia_man_lastNames","Ivanov/Smirnov/Kuznetsov/Popov/Vasiliev/Petrov/Sokolov/Mikhailov/Novikov/Fedorov/Morozov/Volkov/Alekseev/Lebedev/Semenov/Egorov/Pavlov/Kozlov/Stepanov/Nikolaev/Eagles/Andreev/Makarov/Nikitin/Zakharov/Zaitsev/Solovyov/Borisov/Yakovlev/Grigoriev/Romanov/Sparrows/Sergeev/Kuzmin/Frolov/Alexandrov/Dmitriev/Korolev/Gusev/Kiselyov/Ilyin/Maximov/Poles/Sorokin/Vinogradov/Kovalev/Belov/Medvedev/Antonov/Tarasov",""
@@ -1383,7 +1383,7 @@ email： acmain@gmail.com
 "destroy_colony_withCharacters","必须将人员移出站",""
 "destroy_colony","摧毁站点 {colony}？",""
 "destroy_colony_caption","站点摧毁",""
-"destroy_colony_failShuttles","等待所有穿梭机起飞",""
+"destroy_colony_failShuttles","等待所有太空梭起飞",""
 "view_hide_orbites","隐藏空间站轨道",""
 "view_hide_orbites_description","将隐藏除所选站点之外的所有站点的轨道和轨迹",""
 "settings_alternative_colors","替代配色方案",""
@@ -1414,7 +1414,7 @@ email： acmain@gmail.com
 "use_limit","需求限制",""
 "use_limit_description","如果库存数量低于此值,该资源将不会用于生产",""
 "production_limit_description","如果库存数量超过此值,则不会生产资源",""
-"state_cargo_bots","货运机器人在充电时,装卸穿梭机会变慢。如果站点的电池没有充满电,机器人将需要很长时间才能充电。为了加快穿梭机的装卸速度,请建造更多的电池和发电机",""
+"state_cargo_bots","货运机器人在充电时,装卸太空梭会变慢。如果站点的电池没有充满电,机器人将需要很长时间才能充电。为了加快太空梭的装卸速度,请建造更多的电池和发电机",""
 "outdoor_PowerBank2","容量更大的能量电池",""
 "power_details_caption","电源",""
 "power_details_generation","总发电量",""
@@ -1480,7 +1480,7 @@ Z键 - 在空间站上对齐摄像机",""
 "events_arrive_tooltip","飞船{ship}已进入围绕{planet}的轨道",""
 "events_arrive_asteroid_tooltip","飞船{ship}已经停靠在小行星上",""
 "events_arrive_unknown_tooltip","飞船已经抵达目的地",""
-"events_shuttle_tooltip","穿梭机已抵达站点 {name}，并交付了：",""
+"events_shuttle_tooltip","太空梭已抵达站点 {name}，并交付了：",""
 "events_shuttle_counts_tooltip","{humans} 名人类和 {robots} 个机器人",""
 "events_death_tooltip","殖民者{name}在站点{colony}去世了",""
 "events_more","{count}...",""
@@ -1491,10 +1491,10 @@ Z键 - 在空间站上对齐摄像机",""
 "events_filter_crysis_tooltip","危险",""
 "events_filter_crysis_end_tooltip","危险结束",""
 "events_filter_death_tooltip","死亡",""
-"events_filter_shuttle_tooltip","穿梭机抵达消息",""
+"events_filter_shuttle_tooltip","太空梭抵达消息",""
 "event_crysis_description","爆发了一场危机：{name}不能被购买",""
 "event_crysis_end_description","危机已经结束：{name} 重新可用了",""
-"event_shuttle_description","穿梭机运来了 {humans} 名人类、{robots} 个机器人和 {items} 件物品，总重 {weight} 千克",""
+"event_shuttle_description","太空梭运来了 {humans} 名人类、{robots} 个机器人和 {items} 件物品，总重 {weight} 千克",""
 "event_death_description","{name} 死亡了 {name}",""
 "event_arrived_description","这艘船已经抵达了目的地",""
 "events_more_format","{count}+",""
@@ -1982,7 +1982,7 @@ DNA芯片的用途并不仅限于健康监测。这些传感器能够在短时�
 要收集它们，请在殖民地仓库面板中点击“领取奖励”按钮",""
 "receive_reward_caption","{货物}",""
 "receive_reward_text","{cargo}
-将通过穿梭机运送到空间站 {name}",""
+将通过太空梭运送到空间站 {name}",""
 "cargo_filter_hitech","收集奖励",""
 "research_details_caption","“{货物}",""
 "research_details_start","会接送到这个站点”",""
@@ -2132,7 +2132,7 @@ DNA芯片的用途并不仅限于健康监测。这些传感器能够在短时�
 "logistics_add_tooltip","添加任务",""
 "route_fail_logistics_text","站点有未完成的物流任务。 等待它们完成或待转至物流面板时删除它们",""
 "logistics_periodical","经过 {next} 和每个 {period}",""
-"buy_shuttles_count","所需穿梭机：",""
+"buy_shuttles_count","所需太空梭：",""
 "buy_delivery_time","交货期：",""
 "buy_periodical","重复",""
 "buy_period","经过（天）：",""
@@ -2143,27 +2143,27 @@ DNA芯片的用途并不仅限于健康监测。这些传感器能够在短时�
 "buy_cargo_caption","购买资源",""
 "buy_cargo_short_text","在 <b>'{src_colony}'</> 中，货物将被购买：
 {cargo}
-货物将由穿梭机自动运送
-运费将在货物装上穿梭机时扣除",""
+货物将由太空梭自动运送
+运费将在货物装上太空梭时扣除",""
 "buy_cargo_text","在 <b>'{src_colony}'</> 中，货物将被购买：
 {cargo}
 并且物流任务将在站点创建：
 {stations}
 将其发送到 <b>'{dst_colony}'</>
-货物将由穿梭机自动运送。
-运费将在货物装上穿梭机时扣除",""
+货物将由太空梭自动运送。
+运费将在货物装上太空梭时扣除",""
 "logistics_time","经过{next}",""
 "buy_total_cost","运费：",""
 "sell_cargo_caption","销售资源",""
 "sell_cargo_short_text","从 <b>'{dst_colony}'</> 开始，货物将被出售：
 {cargo}
-货款将在穿梭机拿走待售商品后记入",""
+货款将在太空梭拿走待售商品后记入",""
 "sell_cargo_text","向 <b>'{dst_colony}'</> 发送货物：
 {cargo}
 物流任务将在站点创建：
 {stations}
 用于后续销售。
-货款将在穿梭机交付待售商品后记入",""
+货款将在太空梭交付待售商品后记入",""
 "logistics_now","现在",""
 "unbuild_storage_overflow_caption","仓库溢出",""
 "unbuild_storage_overflow_text","拆卸此物品将导致仓库溢出并损失部分资源。确认要拆卸物品吗？",""
@@ -2171,7 +2171,7 @@ DNA芯片的用途并不仅限于健康监测。这些传感器能够在短时�
 "unbuild_tank_overflow_text","拆卸此物品将导致储罐溢出并损失部分资源。确认要拆卸物品吗？",""
 "build_tooltip_overflowStorageEraseError","拆除该结构将导致仓库溢出",""
 "build_tooltip_overflowTanksEraseError","拆除这种结构会导致水箱溢水",""
-"shuttles_caption","穿梭机",""
+"shuttles_caption","太空梭",""
 "reject_shuttle_caption","配送取消",""
 "reject_shuttle_text","通过取消交货，您将失去这批货物。
 取消发货？",""
@@ -2261,7 +2261,7 @@ DNA芯片的用途并不仅限于健康监测。这些传感器能够在短时�
 "load_with_mods_no","使用所有活动模组加载游戏",""
 "go_main_menu_action","退出到主菜单",""
 "new_game_hard","高手",""
-"new_game_hard_description","将无法通过穿梭机进行人员和货物的星际转移",""
+"new_game_hard_description","将无法通过太空梭进行人员和货物的星际转移",""
 "storage_item_limit_description","已达到生产限制。 您可以在“统计”中更改每种资源的生产限制。",""
 "colonies_allow_transit","换乘",""
 "colonies_allow_transit_description","该站用于货物和人员的中转。 不影响已经创建的物流任务。",""
@@ -2274,7 +2274,7 @@ DNA芯片的用途并不仅限于健康监测。这些传感器能够在短时�
 "main_menu_saved_tooltip","实际时间: {real_time}
 游戏时间: {game_time}
 备注: {comment}",""
-"build_category_landing_tooltip","穿梭机着陆点和停靠点",""
+"build_category_landing_tooltip","太空梭着陆点和停靠点",""
 "build_category_stairs_tooltip","人行道、楼梯和地板",""
 "build_category_doors_tooltip","门",""
 "build_category_lights_tooltip","灯、指针、航标",""
@@ -2293,7 +2293,7 @@ DNA芯片的用途并不仅限于健康监测。这些传感器能够在短时�
 "unbuild_antimatter_overflow_caption","反物质储存设施溢出",""
 "unbuild_antimatter_overflow_text","拆卸此物品将导致反物质储存设施溢出并损失部分资源。确认要拆卸物品吗？",""
 "colony_item_antimatter_full","反物质储存设施已满",""
-"state_antimatter","反物质储存设施已使用 {usage} 立方米，总容量为 {total} 立方米。若储存设施已满，反物质生产将停止，运输反物质的穿梭机将在轨道上等待",""
+"state_antimatter","反物质储存设施已使用 {usage} 立方米，总容量为 {total} 立方米。若储存设施已满，反物质生产将停止，运输反物质的太空梭将在轨道上等待",""
 "antimatter_filled_caption","反物质储存设施溢出",""
 "antimatter_filled_text","需要增加反物质储存设施数量，或丢弃部分反物质",""
 "outdoor_EnergyEmitter","能量发射器。将部分过剩能量传输至该殖民地轨道上的空间站",""
@@ -2314,7 +2314,7 @@ DNA芯片的用途并不仅限于健康监测。这些传感器能够在短时�
 "torus_tank_volume","容量",""
 "room_endurance","耐久度",""
 "event_storm","风暴",""
-"state_storm","风暴期间，室外人员移动速度降低，且穿梭机无法在殖民地降落。
+"state_storm","风暴期间，室外人员移动速度降低，且太空梭无法在殖民地降落。
 同时，风暴期间光照减弱，太阳能电池板发电量下降，但风力发电机发电量增加（可能导致其磨损并故障）。
 风暴开始时间: {start}
 持续时间: {duration}",""
@@ -2461,13 +2461,13 @@ DNA芯片的用途并不仅限于健康监测。这些传感器能够在短时�
 "tutorial_repair4","维修需要少量资源，具体取决于每栋建筑的构成。确保始终储备足够的维修资源",""
 "tutorial_building5","拆除已建造的门、楼梯或楼层的方法类似——使用<img id=""trash""/>类别中的相应按钮",""
 "tutorial_logistics_title","贸易与物流",""
-"tutorial_logistics0","人员和货物运输通过穿梭机实现。收发货物需至少一个着陆平台或码头。接收货物还需仓库有空余空间",""
+"tutorial_logistics0","人员和货物运输通过太空梭实现。收发货物需至少一个着陆平台或码头。接收货物还需仓库有空余空间",""
 "tutorial_logistics1","随着游戏进展，您的基地和殖民地数量会增加，您将在它们之间运输货物并与各国贸易。通过右侧“物流”面板中的按钮进行贸易和货物运输",""
 "tutorial_logistics2","买卖和运输货物时注意交付时间（取决于行星相对位置及已研究技术）。特别注意——货物交付速度在不同日期可能相差十倍以上！这在履行合同时尤为重要",""
 "tutorial_logistics3","买卖时必须考虑运输成本——游戏初期成本过高，多数商品销售无法盈利。可通过研究降低运输成本",""
 "tutorial_logistics4","购买、出售和运输货物时，您会创建物流规则。点击右侧“物流”面板中的“物流任务”按钮可以查看这些规则。您也可以取消不再需要的规则",""
-"tutorial_logistics5","穿梭机无法直接将货物从一颗行星运送到另一颗行星，需要行星轨道上的中转站。关于轨道站建设的更多内容，请参阅“轨道站”章节",""
-"tutorial_logistics6","您可以通过右侧“物流”面板中的“穿梭机”按钮查看所有在途、出发或到达殖民地的穿梭机。如果没有穿梭机，该按钮不可见。运输货物的穿梭机可以取消（但货物会丢失）",""
+"tutorial_logistics5","太空梭无法直接将货物从一颗行星运送到另一颗行星，需要行星轨道上的中转站。关于轨道站建设的更多内容，请参阅“轨道站”章节",""
+"tutorial_logistics6","您可以通过右侧“物流”面板中的“太空梭”按钮查看所有在途、出发或到达殖民地的太空梭。如果没有太空梭，该按钮不可见。运输货物的太空梭可以取消（但货物会丢失）",""
 "tutorial_tourism7","游客通过您的轨道站从太空港抵达。因此从其他行星出发可能耗时极长。执行旅游合同时请考虑这点",""
 "tutorial_factions_title","国家与派系",""
 "tutorial_factions0","游戏过程中您需与各游戏派系互动：履行合同、贸易、接待游客。",""
@@ -2747,7 +2747,7 @@ DNA芯片的用途并不仅限于健康监测。这些传感器能够在短时�
 "modifier_space_sickness","低重力太空病 {space_sickness}%",""
 "room_gravity","重力",""
 "room_gravity_tooltip","低重力环境下宇航员会患上太空病",""
-"death_cause_downed_shuttle","穿梭机坠毁身亡",""
+"death_cause_downed_shuttle","太空梭坠毁身亡",""
 "death_cause_meteors","流星雨期间身亡",""
 "death_cause_radiation","患癌症",""
 "death_cause_injury","严重外伤",""
@@ -2783,7 +2783,7 @@ DNA芯片的用途并不仅限于健康监测。这些传感器能够在短时�
 "buy_volume_done_tooltip","目的地和中转站有足够存储空间",""
 "buy_volume_small_tooltip","以下站点存储空间不足：
 {stations}
-由于到达时缺乏可用空间，载货穿梭机将停留在轨道上，直到站点有足够的空间来存放货物。",""
+由于到达时缺乏可用空间，载货太空梭将停留在轨道上，直到站点有足够的空间来存放货物。",""
 "colonies_colonies","殖民地",""
 "colonies_stations","飞船和空间站",""
 "colony_item_arrive_time_tooltip","飞船到达目的地所需时间",""
@@ -3032,7 +3032,7 @@ DNA芯片的用途并不仅限于健康监测。这些传感器能够在短时�
 "contract_needs_establishSpaceport1","在{planet}{check}建立殖民地",""
 "contract_needs_establishSpaceport2","接受{nation}的殖民者 {count}/{total}{check}",""
 "contract_needs_establishSpaceport3","为殖民者提供工作 {count}/{total}{check}",""
-"contract_needs_establishSpaceport4","殖民地中的穿梭机 {shuttles}/{total}{check}",""
+"contract_needs_establishSpaceport4","殖民地中的太空梭 {shuttles}/{total}{check}",""
 "contract_needs_establishSpaceport5","殖民者死亡 {dead}/{total}{check}",""
 "colony_warning_loyalty","宇航员不快乐",""
 "colony_warning_energy","电力不足",""
@@ -3066,7 +3066,7 @@ DNA芯片的用途并不仅限于健康监测。这些传感器能够在短时�
 "colony_warning_toilet","需要厕所",""
 "colony_warning_shower","需要淋浴",""
 "colony_warning_light","看不见",""
-"colony_warning_shuttles","轨道上的穿梭机",""
+"colony_warning_shuttles","轨道上的太空梭",""
 "colony_warning_russian_cuisine","缺少俄罗斯菜肴",""
 "colony_warning_chinese_cuisine","缺少中国菜肴",""
 "colony_warning_european_cuisine","缺少欧洲菜肴",""
@@ -3083,7 +3083,7 @@ DNA芯片的用途并不仅限于健康监测。这些传感器能够在短时�
  - 与{nation}的关系将改善{up_loyalty}
 您可以随时终止合同，但这将使与{nation}的关系恶化{down_loyalty}",""
 "contract_select_spaceport_text","选择此殖民地作为{nation}的未来太空港？
-选择后，穿梭机将开始运送人员至殖民地（前提是殖民地中没有红色指标）。
+选择后，太空梭将开始运送人员至殖民地（前提是殖民地中没有红色指标）。
 您可以通过点击合同上的“重置”按钮取消此决定。",""
 "sign_contract_mine_colony_text","如果您履行合同义务，则：
  - 您的殖民地将移交给{nation}
@@ -3102,7 +3102,7 @@ DNA芯片的用途并不仅限于健康监测。这些传感器能够在短时�
 殖民地不应有红色指标{check}",""
 "contract_needs_miningColony1","在{planet}{check}建立殖民地",""
 "contract_needs_miningColony2","仅来自{nation}的殖民者 {humans}/{total}{check}",""
-"contract_needs_miningColony3","殖民地中的穿梭机 {shuttles}/{total}{check}",""
+"contract_needs_miningColony3","殖民地中的太空梭 {shuttles}/{total}{check}",""
 "contract_needs_miningColony4","每日开采:",""
 "contract_needs_miningColony5","{resource}={value}/{total}{check}",""
 "nation_martians","火星人",""
@@ -3157,7 +3157,7 @@ DNA芯片的用途并不仅限于健康监测。这些传感器能够在短时�
 殖民地不应有红色指标{check}",""
 "contract_needs_industrialColony1","在{planet}{check}建立殖民地",""
 "contract_needs_industrialColony2","仅来自{nation}的殖民者 {humans}/{total}{check}",""
-"contract_needs_industrialColony3","殖民地中的穿梭机 {shuttles}/{total}{check}",""
+"contract_needs_industrialColony3","殖民地中的太空梭 {shuttles}/{total}{check}",""
 "contract_needs_industrialColony4","每日生产:",""
 "contract_needs_industrialColony5","{resource}={value}/{total}{check}",""
 "sign_contract_farm_colony_text","如果您履行合同义务，则：
@@ -3177,7 +3177,7 @@ DNA芯片的用途并不仅限于健康监测。这些传感器能够在短时�
 殖民地不应有红色指标{check}",""
 "contract_needs_farmColony1","在{planet}{check}建立殖民地",""
 "contract_needs_farmColony2","仅来自{nation}的殖民者 {humans}/{total}{check}",""
-"contract_needs_farmColony3","殖民地中的穿梭机 {shuttles}/{total}{check}",""
+"contract_needs_farmColony3","殖民地中的太空梭 {shuttles}/{total}{check}",""
 "contract_needs_farmColony4","每日生产:",""
 "contract_needs_farmColony5","{resource}={value}/{total}{check}",""
 "sign_contract_science_colony_text","如果您履行合同义务，则：
@@ -3195,7 +3195,7 @@ DNA芯片的用途并不仅限于健康监测。这些传感器能够在短时�
 殖民地不应有红色指标{check}",""
 "contract_needs_scienceColony1","在{planet}{check}建立殖民地",""
 "contract_needs_scienceColony2","仅来自{nation}的殖民者 {humans}/{total}{check}",""
-"contract_needs_scienceColony3","殖民地中的穿梭机 {shuttles}/{total}{check}",""
+"contract_needs_scienceColony3","殖民地中的太空梭 {shuttles}/{total}{check}",""
 "contract_needs_scienceColony4","物理学研究点数每天 {points}/{total}{check}",""
 "contract_needs_scienceColony5","生物学研究点数每天 {points}/{total}{check}",""
 "contract_needs_scienceColony6","工程学研究点数每天 {points}/{total}{check}",""
@@ -3217,13 +3217,13 @@ DNA芯片的用途并不仅限于健康监测。这些传感器能够在短时�
 "contract_needs_touristColony1","在{planet}{check}建立殖民地",""
 "contract_needs_touristColony2","接待游客 {tourists}/{total}{check}",""
 "contract_needs_touristColony3","旅游评级 {raiting}/{need}{check}",""
-"contract_needs_touristColony4","殖民地中的穿梭机 {shuttles}/{total}{check}",""
+"contract_needs_touristColony4","殖民地中的太空梭 {shuttles}/{total}{check}",""
 "sign_contract_patients_text","如果您履行合同义务，则：
  - 您将获得合同承诺的内容
  - 与{nation}的关系将改善{up_loyalty}
 您可以随时终止合同，但这将使与{nation}的关系恶化{down_loyalty}",""
 "contract_select_patients_colony_text","选择此殖民地作为{nation}患者的治疗地点吗？
-选择后，穿梭机将开始运送患者到此殖民地。
+选择后，太空梭将开始运送患者到此殖民地。
 您可以在合同上点击'重置'按钮取消此决定",""
 "contract_title_patients","治疗患者",""
 "contract_needs_patients","在{planet}上接受{need_patients}名患者{check}
@@ -3232,7 +3232,7 @@ DNA芯片的用途并不仅限于健康监测。这些传感器能够在短时�
 死亡殖民者不超过{deads}{check}",""
 "contract_needs_patients1","在{planet}上接受患者 {count}/{total}{check}",""
 "contract_needs_patients2","治愈{disease} {count}/{total}{check}",""
-"contract_needs_patients3","殖民地中的穿梭机 {shuttles}/{total}{check}",""
+"contract_needs_patients3","殖民地中的太空梭 {shuttles}/{total}{check}",""
 "contract_needs_patients4","殖民者死亡 {dead}/{total}{check}",""
 "sign_contract_shipment_text","向{nation}在{planet}上出售合同中指定的资源后：
  - 您将获得合同承诺的内容（除出售资源所得外）
@@ -3264,7 +3264,7 @@ DNA芯片的用途并不仅限于健康监测。这些传感器能够在短时�
 "solargene_mission_needs5","建造反物质反应堆{check}",""
 "solargene_mission_needs6","招募志愿者 {count}/{total}{check}",""
 "solargene_mission_needs7","将船员放入低温舱 {count}/{total}{check}",""
-"solargene_mission_needs8","殖民地中的穿梭机 {shuttles}/{total}{check}",""
+"solargene_mission_needs8","殖民地中的太空梭 {shuttles}/{total}{check}",""
 "solargene_mission_needs9","装载：",""
 "solargene_mission_needs10","{resource} = {count}/{total}{check}",""
 "solargene_mission_done_caption","游戏通关！",""
@@ -3279,7 +3279,7 @@ DNA芯片的用途并不仅限于健康监测。这些传感器能够在短时�
 "furniture_farm21c","种植水果和蔬菜的菜园",""
 "furniture_farm22c","种植谷物的菜园",""
 "furniture_farm22d","种植药用植物、装饰植物和木材的菜园",""
-"shuttles_storm","由于风暴，穿梭机无法降落",""
+"shuttles_storm","由于风暴，太空梭无法降落",""
 "character_wear_tooltip","随着磨损，机器人的技能会下降，修理后会恢复",""
 "camera_settings_auto_align","太空自动对齐",""
 "camera_settings_auto_align_tooltip","在空间站工作时，摄像机将根据当前选择的站段自动调整'向上'方向",""
@@ -3307,7 +3307,7 @@ DNA芯片的用途并不仅限于健康监测。这些传感器能够在短时�
 "tutorial_colony1b","赤道通常比行星上其他地方更温暖。此外，尽量选择白天一侧、日落前有充足时间的地点——你需要能源，而没有阳光时，太阳能板将无法发电",""
 "tutorial_colony5b","屏幕右侧显示管理殖民地的按钮指示器。您可以在其上看到最重要的指标，以及需要紧急处理的情况的警告（红色闪烁）",""
 "tutorial_building0b","建造气闸后，您可以建造走廊。点击<img id=""hallway""/>（屏幕底部），选择任意类型的块，并将其连接到气闸",""
-"tutorial_staff0b","要雇佣人员，点击左侧“人员”面板中的“雇佣”。员工有不同的专业、技能、经验和年龄，因此薪资也不同。雇佣后，人员将乘坐穿梭机抵达空间站。到达时间可在右侧的“物流”面板中查看",""
+"tutorial_staff0b","要雇佣人员，点击左侧“人员”面板中的“雇佣”。员工有不同的专业、技能、经验和年龄，因此薪资也不同。雇佣后，人员将乘坐太空梭抵达空间站。到达时间可在右侧的“物流”面板中查看",""
 "character_morale_tooltip","心情差会降低殖民者的技能",""
 "character_bonus_tooltip","奖金能快速提升宇航员的心情",""
 "room_comfort","每人舒适度 {value}/{max}",""
@@ -3414,7 +3414,7 @@ DNA芯片的用途并不仅限于健康监测。这些传感器能够在短时�
 "nation_contracts","合同",""
 "event_charge","机器人电量耗尽",""
 "event_immigration","部分殖民者希望离开殖民地",""
-"event_hired_text","雇佣的殖民者（{count}人）将通过穿梭机运送到空间站",""
+"event_hired_text","雇佣的殖民者（{count}人）将通过太空梭运送到空间站",""
 "events_filter_hired_tooltip","人员雇佣消息",""
 "character_cancel_action","取消动作",""
 "character_destroy","拆除",""
@@ -3473,11 +3473,11 @@ DNA芯片的用途并不仅限于健康监测。这些传感器能够在短时�
 "panel_info_meteors","流星雨 {period}后
 预计伤害 {damage}<img id=""endurance""/>",""
 "panel_info_meteors_active","流星雨 {percent}%",""
-"panel_info_meteors_tooltip","流星雨会对殖民地造成伤害并可能摧毁穿梭机。流星雨的质量、速度和方向各不相同，因此建议在空间站四周均匀布置比预测数量更多的炮塔以确保完全拦截。",""
+"panel_info_meteors_tooltip","流星雨会对殖民地造成伤害并可能摧毁太空梭。流星雨的质量、速度和方向各不相同，因此建议在空间站四周均匀布置比预测数量更多的炮塔以确保完全拦截。",""
 "panel_info_storm","风暴 {start}后开始
 持续时间 {duration}",""
 "panel_info_storm_active","风暴 {percent}%",""
-"panel_info_storm_tooltip","风暴期间，人员在室外移动速度降低，且穿梭机无法在殖民地降落。
+"panel_info_storm_tooltip","风暴期间，人员在室外移动速度降低，且太空梭无法在殖民地降落。
 风暴期间光照减弱，太阳能板发电量减少，但风力发电机发电量增加（可能导致其磨损和故障）",""
 "panel_info_calm","无风 {start}后开始
 持续时间 {duration}",""
@@ -3494,8 +3494,8 @@ DNA芯片的用途并不仅限于健康监测。这些传感器能够在短时�
 "panel_temperature_outside","外部温度",""
 "panel_temperature_room","所选舱室温度",""
 "panel_logistics_cart","购物车",""
-"panel_logistics_shuttles_wait","轨道上等待的穿梭机",""
-"panel_logistics_shuttles_total_tooltip","到达或离开空间站的穿梭机",""
+"panel_logistics_shuttles_wait","轨道上等待的太空梭",""
+"panel_logistics_shuttles_total_tooltip","到达或离开空间站的太空梭",""
 "panel_logistics_miss_cargo_tooltip","执行货物运输物流任务时缺少资源。可能货物尚未到达中转站，或已在中转站消耗（后者需补购不足资源并限制中转站对该资源的消耗）",""
 "panel_storage_miss_resources","资源不足：",""
 "panel_storage_miss_resources_tooltip","人员无法使用消耗缺失资源的设备",""
@@ -3505,9 +3505,9 @@ DNA芯片的用途并不仅限于健康监测。这些传感器能够在短时�
 "panel_storage_ration","口粮剩余 {period}",""
 "panel_storage_ration_tooltip","食物不足时，人员会开始挨饿，导致殖民者虚弱",""
 "panel_storage_format","已用 {value}立方米 / 共 {total}立方米",""
-"panel_storage_solid_tooltip","如果仓库已满，人员无法使用生产固体资源的设备，运输固体货物的穿梭机会在轨道上等待",""
-"panel_storage_liquid_tooltip","如果储罐已满，人员无法使用生产液体和气体的设备，运输液体和气体的穿梭机会在轨道上等待",""
-"panel_storage_antimatter_tooltip","如果反物质储存已满，反物质生产会停止，运输反物质的穿梭机会在轨道上等待",""
+"panel_storage_solid_tooltip","如果仓库已满，人员无法使用生产固体资源的设备，运输固体货物的太空梭会在轨道上等待",""
+"panel_storage_liquid_tooltip","如果储罐已满，人员无法使用生产液体和气体的设备，运输液体和气体的太空梭会在轨道上等待",""
+"panel_storage_antimatter_tooltip","如果反物质储存已满，反物质生产会停止，运输反物质的太空梭会在轨道上等待",""
 "panel_storage_fuel","燃料储备：",""
 "panel_storage_fuel_tooltip","燃料耗尽时，依赖燃料的发电机将停止工作",""
 "panel_energy_solar","太阳能板",""
@@ -3599,8 +3599,8 @@ DNA芯片的用途并不仅限于健康监测。这些传感器能够在短时�
 "select_asteroid_text","点击任意小行星以飞往该处。如果小行星太小，可以在游戏设置中调整其显示比例",""
 "panel_build_caption_erase","拆除",""
 "panel_build_description_erase","用于拆除殖民地中已建造对象的工具",""
-"panel_build_caption_landing","穿梭机降落",""
-"panel_build_description_landing","殖民地中穿梭机降落或与空间站对接的位置",""
+"panel_build_caption_landing","太空梭降落",""
+"panel_build_description_landing","殖民地中太空梭降落或与空间站对接的位置",""
 "panel_build_caption_lights","灯光",""
 "panel_build_description_lights","灯光和导航信标帮助人员更好地定位",""
 "panel_build_caption_station","空间站",""
